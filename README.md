@@ -6,11 +6,11 @@ Five tested Python tools that model common junior IT support workflows. Every re
 
 | # | Project | Practical outcome |
 |---|---|---|
-| 04 | [Ticket Triage](labs/ticket-triage/README.md) | Categorizes tickets and assigns an explainable SLA priority. |
-| 05 | [Asset Inventory Audit](labs/asset-inventory-audit/README.md) | Finds duplicate IDs, missing serials and overdue checks. |
-| 06 | [Log Anomaly Scanner](labs/log-anomaly-scanner/README.md) | Groups errors, authentication failures, timeouts and resource pressure. |
-| 07 | [Backup Verifier](labs/backup-verifier/README.md) | Validates status, recency, size and checksum presence. |
-| 08 | [Network Checklist Generator](labs/network-checklist-generator/README.md) | Builds safe, repeatable diagnostics for Wi-Fi, DNS, VPN and latency incidents. |
+| 04 | **Ticket Triage** | Categorizes tickets and assigns an explainable SLA priority. |
+| 05 | **Asset Inventory Audit** | Finds duplicate IDs, missing serials and overdue checks. |
+| 06 | **Log Anomaly Scanner** | Groups errors, authentication failures, timeouts and resource pressure. |
+| 07 | **Backup Verifier** | Validates status, recency, size and checksum presence. |
+| 08 | **Network Checklist Generator** | Builds safe, repeatable diagnostics for Wi-Fi, DNS, VPN and latency incidents. |
 
 ## Run locally
 
