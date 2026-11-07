@@ -35,3 +35,9 @@ These are personal portfolio projects built to demonstrate support thinking, dat
 ## License
 
 MIT © Henri Mpouli
+
+## Extended Operations Toolkit
+
+Four additional offline audits: inventory comparison, disk capacity, IPv4/IPv6 subnet planning and ticket SLA analysis. Includes a JSON CLI, synthetic examples and 15 unittest cases.
+
+[Documentation et démarrage en français](OPERATIONS_TOOLKIT.md)

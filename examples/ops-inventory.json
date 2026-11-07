@@ -1,0 +1,1 @@
+{"before":[{"asset_id":"PC-001","os":"Windows 10"},{"asset_id":"PC-002","os":"Linux"}],"after":[{"asset_id":"PC-001","os":"Windows 11"},{"asset_id":"PC-003","os":"Linux"}]}
